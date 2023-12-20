@@ -1,0 +1,19 @@
+{
+
+"short_name":"PokeApi",
+"name":"PokeApi",
+"start_url":"index.html",
+"background_color":"#043b72",
+"theme_color":"#043b72",
+"display": "standalone",
+"orientation":"portrait",
+
+"icons": [
+    {
+        "src": "images/logo.png",
+        "type": "image/png",
+        "sizes": "72x72"
+    }
+  ]
+
+}
