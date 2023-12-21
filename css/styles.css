@@ -1,0 +1,12 @@
+
+      #results {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+      }
+  
+      .pokemon-container {
+        flex-basis: 20%; 
+        text-align: center;
+        margin: 12px;
+      }
