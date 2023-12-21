@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', (event) => {
-            const dbName = 'PokeApiDB';
+            const dbName = 'PokemonDB';
             const request = window.indexedDB.open(dbName);
 
             request.onupgradeneeded = (event) => {

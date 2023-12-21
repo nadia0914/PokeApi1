@@ -1,6 +1,6 @@
-const CACHE ='cache-';
-const CACHE_DINAMICO ='dinamico-';
-const CACHE_INMUTABLE ='inmutable-';
+const CACHE ='cache';
+const CACHE_DINAMICO ='dinamico';
+const CACHE_INMUTABLE ='inmutable';
 
 //Indicamos que durante el proceso de intalación se 
 //carguen los archivos del cache estatico
